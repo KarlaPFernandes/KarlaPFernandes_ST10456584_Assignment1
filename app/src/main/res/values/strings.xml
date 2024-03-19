@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IceTask 1- Karla Patricia Fernandes</string>
+    <string name="appHeader">Multiplication table</string>
+    <string name="Hello">Hello</string>
+    <string name="textHint">Enter the Number</string>
+    <string name="buttontext">Multiply!</string>
+</resources>
